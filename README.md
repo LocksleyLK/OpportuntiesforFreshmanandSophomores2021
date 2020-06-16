@@ -16,4 +16,4 @@ From my experience, other programs usually open up in the Winter. Make sure to c
 | Company | Position | Link | Applications Open | Applications Close | Notes |
 |---|---|---|---|---|---|
 | Microsoft | High School Internship |     |  |  | Only Available to Washington State residents within 50 miles of the Redmond Campus. |
-| Google | Computer Science Summer Institute | https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/ |  |  | Only Available to Washington State residents within 50 miles of the Redmond Campus. |
+| Google | Computer Science Summer Institute | https://buildyourfuture.withgoogle.com/programs/computer-science-summer-institute/ |  |  | |
